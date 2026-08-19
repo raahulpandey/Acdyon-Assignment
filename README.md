@@ -5,7 +5,9 @@ A premium analytics landing page built for the Acdyon Technologies Frontend Chal
 ## Live Demo
 
 <!-- Update this URL after Vercel deployment -->
-**Production:** _Add Vercel URL here after deployment_
+**Production:** https://acdyon-landing.vercel.app
+
+**Inspect:** https://vercel.com/raahulpandeys-projects/acdyon-landing
 
 **GitHub:** https://github.com/raahulpandey/Acdyon-Assignment
 
